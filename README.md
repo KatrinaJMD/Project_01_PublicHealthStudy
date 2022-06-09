@@ -5,6 +5,14 @@ This project carries out a large-scale study on undernutrition in the world.
 
 The hunger problem is complex and can have multiple causes, which differ from country to country. The preliminary stage of this study is to establish a "state of the art" of the research already published and carry out a statistical study intended to direct research towards particular countries and highlight various causes of hunger.
 
+### <b>SKILLS ASSESSED</b>
+- Recover data from an identified source
+- Perform complex queries in SQL
+- Master the basics of Python
+- Use technical documentation
+- Use specialized libraries for Data Science
+- Apply relational algebra in Python
+
 ### <b>CONDITIONS</b>
 
 This project deals with the concepts of relational algebra via data frames. Knowledge of basic SQL queries is also needed for this project.
@@ -157,11 +165,3 @@ There are 4 datasets exported to the database:
 - List of 10 countries with the highest Other uses/Domestic availability ratio
 
 ### <b>Query n°7: List of "other uses" of products from the last query (internet research)</b>
-
-<b>SKILLS ASSESSED</b>
-- Recover data from an identified source
-- Perform complex queries in SQL
-- Master the basics of Python
-- Use technical documentation
-- Use specialized libraries for Data Science
-- Apply relational algebra in Python
